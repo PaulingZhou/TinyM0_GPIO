@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TKStudioOptions Version="3.00" Author="YinHandong[Òüº®¶¬]">
+    <Projects OPTPES="96,96,0,2,0,96,0,">
+        <Project ProjectGUID="{81C5F174-6EA6-44d7-B776-37CEE4B75623}" Name="Template" ACTCFG="ReleaseInFlash">
+            <TARGOPT Name="ReleaseInFlash" OPTDF="0">
+                <OPTFFF VAL="&lt;.\USER_CODE\main.c&gt; {2,3,-1,-1,0,0,998,270,59,2921}" />
+                <OPTFFF VAL="&lt;.\lpc11xx\lpc11xx.h&gt; {0,1,-1,-1,26,26,1050,299,41,13520}" />
+                <OPTFFF VAL="&lt;.\LPC11xx\startup\startup_LPC11xx.s&gt; {0,1,-1,-1,52,52,1076,325,120,0}" />
+            </TARGOPT>
+        </Project>
+    </Projects>
+</TKStudioOptions>

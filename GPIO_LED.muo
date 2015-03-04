@@ -1,0 +1,13 @@
+*** TKStudio Project Config (C)ZLG-MCU By YinHandong[Òüº®¶¬]
+*** Do not modify !
+
+ACTCFG <DebugInFlash>
+TARGOPT 1,()
+  OPTFFF <.\lpc11xx\startup\startup_lpc11xx.s> {0,1,-1,-1,0,0,932,315,105,6110}
+  OPTFFF <.\user_code\main.c> {2,3,-1,-1,0,0,932,315,61,3293}
+  OPTFFF <Disassembly> {0,1,-1,-1,22,27,976,273,0,0}
+  OPTDF 1
+  OPTMM 1,0,41,1,0,268435460,1,1
+  OPTWA 0,1,(0x10000004)
+  OPTPES 1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+EndOpt
